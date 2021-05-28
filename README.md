@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MomenBaligh/Insure-Landing-Page](https://github.com/MomenBaligh/Insure-Landing-Page)
+- Live Site URL: [https://insure-landing-page-momenbaligh.vercel.app/](https://insure-landing-page-momenbaligh.vercel.app/)
 
 ## My process
 
